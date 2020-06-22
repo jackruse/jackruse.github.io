@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Aggregation in ETL -- Great Idea, Bad Timing"
-date:       2020-06-22 01:58:30 +0000
+date:       2020-06-21 21:58:31 -0400
 permalink:  data_aggregation_in_etl_--_great_idea_bad_timing
 ---
 
